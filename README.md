@@ -13,12 +13,14 @@
 
 <p align="left"> [<img align="left" alt="basudeb24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="basudeb24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="basudeb24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="basudeb24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</p>
 
 
 [twitter]: https://twitter.com/Basudebbasak12
 [instagram]: https://www.instagram.com/b_a_s_u_d_e_b/
-[linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/ </p>
+[linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/ 
+
+
 
 
 
