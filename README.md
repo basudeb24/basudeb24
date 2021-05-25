@@ -29,6 +29,8 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 [linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/
 
 
+
+
 - 📫 How to reach me **basudeb2411@gmail.com**
 
 
@@ -43,6 +45,5 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=basudeb24&show_icons=true&locale=en&layout=compact" alt="basudeb24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basudeb24&show_icons=true&locale=en" alt="basudeb24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basudeb24&" alt="basudeb24" /></p>
