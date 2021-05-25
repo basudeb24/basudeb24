@@ -5,6 +5,9 @@ I'm BASUDEB
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basudeb24&" alt="basudeb24" /></p>
+
+
 I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 - 🔭 I’m currently working on Android Development projects😉
 - 👯 Furthermore, looking to collaborate on Web Development or App Development projects
@@ -31,13 +34,6 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 
 
 
-- 📫 How to reach me **basudeb2411@gmail.com**
-
-
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +41,4 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basudeb24&" alt="basudeb24" /></p>
+
