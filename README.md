@@ -1,5 +1,10 @@
 I'm BASUDEB
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=basudeb24&label=Profile%20views&color=0e75b6&style=flat" alt="basudeb24" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
 I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 - 🔭 I’m currently working on Android Development projects😉
 - 👯 Furthermore, looking to collaborate on Web Development or App Development projects
@@ -23,13 +28,11 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 [instagram]: https://www.instagram.com/b_a_s_u_d_e_b/
 [linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/
 
+
 - 📫 How to reach me **basudeb2411@gmail.com**
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=basudeb24&label=Profile%20views&color=0e75b6&style=flat" alt="basudeb24" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
