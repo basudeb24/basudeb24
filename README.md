@@ -1,8 +1,9 @@
 I'm BASUDEB
 
 I'm a Final Year Student persuing my BCA from The Heritage Academy!!
-- 🌱 I’m currently learning new technologies
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on Android Development projects😉
+- 👯 Furthermore, looking to collaborate on Web Development or App Development projects
+- 💬 Mail me for flutter, or any App or Web development realted project
 - ⚡ Fun fact: I love to click photos and edit photos/videos
 
 
