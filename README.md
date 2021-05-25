@@ -4,7 +4,6 @@ I'm BASUDEB
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=basudeb24&" alt="basudeb24" /></p>
 
 
@@ -30,10 +29,6 @@ I'm a Final Year Student persuing my BCA from The Heritage Academy!!
 [twitter]: https://twitter.com/Basudebbasak12
 [instagram]: https://www.instagram.com/b_a_s_u_d_e_b/
 [linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/
-
-
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
