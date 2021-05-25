@@ -3,25 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basudeb24&label=Profile%20views&color=0e75b6&style=flat" alt="basudeb24" /> </p>
 
+- 🔭 I’m currently working on Android App related projects 😉
+
 - 🌱 I’m currently learning **Flutter**
+
+- 👯 Furthermore, looking to collaborate on App Development and Web Development Projects
+
+- 💬 Mail me for Flutter, or any App or Web development related projects
 
 - 📫 Find me here: **basudeb2411@gmail.com**
 
 - ⚡ Fun fact : **I love to click photos and edit photos/videos**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left"> <img align="left" alt="basudeb24 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/Basudebbasak12">
-[<img align="left" alt="basudeb24 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="basudeb24 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</p>
-
-
-
-[instagram]: https://www.instagram.com/b_a_s_u_d_e_b/
-[linkedin]: https://www.linkedin.com/in/basudeb-basak-543b59177/ 
-
-
-
 
 
 
