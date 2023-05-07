@@ -9,7 +9,7 @@
 
 - 👯 Furthermore, looking to collaborate on App Development and Web Development Projects
 
-- 💬 Mail me for Spring Boot(Jsp) ,Angular , Web Development or any Android App related projects
+- 💬 Mail me for Spring Boot(Jsp) , Angular , Web Development or any Android App related projects
 
 - 📫 Find me here: **basudeb2411@gmail.com**
 
