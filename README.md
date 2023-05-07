@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm BASUDEB</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from Kolkata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basudeb24&label=Profile%20views&color=0e75b6&style=flat" alt="basudeb24" /> </p>
 
 - 🔭 I’m currently working on Android App related projects 😉
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 Furthermore, looking to collaborate on App Development and Web Development Projects
 
-- 💬 Mail me for Flutter, or any App or Web development related projects
+- 💬 Mail me for Spring Boot(Jsp) ,Angular , Web Development or any Android App related projects
 
 - 📫 Find me here: **basudeb2411@gmail.com**
 
-- ⚡ Fun fact : **I love to click photos and edit photos/videos**
+- ⚡ Fun fact : **Chitrographer**
 
 
 
