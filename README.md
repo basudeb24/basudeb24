@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm BASUDEB</h1>
-<h3 align="center">A Passionate Frontend Developer from Kolkata</h3>
+<h3 align="center">A Passionate Data analyst from Kolkata</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basudeb24&label=Profile%20views&color=0e75b6&style=flat" alt="basudeb24" /> </p>
 
-- 🔭 I’m currently working on Android App related projects 😉
+- 🔭 I’m currently working on Analyst related projects 😉
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python Libraries**
 
-- 👯 Furthermore, looking to collaborate on App Development and Web Development Projects
+- 👯 Furthermore, looking to collaborate on making insights and Dashboard Projects
 
-- 💬 Mail me for Spring Boot(Jsp) , Angular , Web Development or any Android App related projects
+- 💬 Mail me for Analyst related projects
 
 - 📫 Find me here: **basudeb2411@gmail.com**
 
